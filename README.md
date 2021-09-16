@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeamonDev
 - 👀 I’m interested in functional programming
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning Scala & Rust
 - 💞️ I’m looking to collaborate on backend programming
 
 <!---
