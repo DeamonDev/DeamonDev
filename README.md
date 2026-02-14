@@ -1,4 +1,4 @@
-I like distributed systems, functional programing, jazz, domain driven design and cats.
+I like distributed systems, functional programing, playing jazz on piano, domain driven design and cats.
 
 https://deamondev.github.io
 <!---
